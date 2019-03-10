@@ -1,6 +1,7 @@
 The definitions of the variables in the Bookbinder dataset are given below:
 
-Choice: Whether the customer purchased the The Art History of Florence. 1 corresponds to a purchase and 0 corresponds to a nonpurchase. 
+Choice: Whether the customer purchased the The Art History of Florence. 
+1 corresponds to a purchase and 0 corresponds to a nonpurchase. 
 Gender: 0 = Female and 1 = Male. 
 Amount purchased: Total money spent on BBBC books. 
 Frequency: Total number of purchases in the chosen period (used as a proxy for frequency.) 
